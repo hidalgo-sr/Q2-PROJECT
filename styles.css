@@ -1,0 +1,56 @@
+.header {
+    text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    font-family: 'Outfit', sans-serif;
+    border: 4px, black;
+    padding: 5px;
+    letter-spacing: 20px;
+}
+.open {
+    background-color: lightseagreen;
+    padding: 5px;
+    margin: 10px;
+}
+body {
+    background-image: url(https://i.natgeofe.com/n/04505c35-858b-4e95-a1a7-d72e5418b7fc/steep-karst-cliffs-of-el-nido-in-palawan.jpg?w=1534&h=768);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover  
+}
+.main-page {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    column-gap: 10px
+}
+.image {
+    width: 300px;
+    height: 250px;
+    background-color:lightseagreen;
+    padding: 10px;
+    margin: 10px;
+}
+h2 {
+    text-align: center;
+}
+.items {
+    text-align: center;
+    background-color: #ffffff;
+    width: 500px;
+    padding: 15px;
+    box-shadow: 0 30px 40px rgba(144,142,158,255);
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.text {
+    background-color: #ffffff;
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+}
+.footer {
+    text-align: center;
+}
